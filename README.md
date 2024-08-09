@@ -1,7 +1,7 @@
 ## **Hi there! :)**
 I'm Akassya, most known on the internet as Kassy, a pseudonym i created for myself ;)
 
-- currently having classes on Allura
+- currently having classes on [Alura](https://www.alura.com.br/?srsltid=AfmBOorHYr59-Q54OqzHd2YJtTSUzlWrBO-yKhma7CYrjJmisIGKgC2X)
 - planning to do a few projects and improve my java skills
 - I use this space to organize and share my developed projects
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## **Oie! :)**
 Sou Akassya, mais conhecida na internet como Kassy, ​​pseudônimo que criei para mim ;)
 
-- atualmente tendo aulas sobre Allura
+- atualmente tendo aulas sobre [Alura](https://www.alura.com.br/?srsltid=AfmBOorHYr59-Q54OqzHd2YJtTSUzlWrBO-yKhma7CYrjJmisIGKgC2X)
 - espero fazer alguns projetos e melhorar minhas habilidades em java
 - utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
   
@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://media.tenor.com/KiQ71OnI4Q8AAAAM/pusheen-fast.gif)
