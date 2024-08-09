@@ -1,5 +1,34 @@
-## Hi there 👋
+## **Hi there! :)**
+I'm Akassya, most known on the internet as Kassy, a pseudonym i created for myself ;)
 
+- currently having classes on Allura
+- planning to do a few projects and improve my java skills
+- I use this space to organize and share my developed projects
+
+<!--
+**Akassya01/Akassya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+🇧🇷
+
+## **Oie! :)**
+Sou Akassya, mais conhecida na internet como Kassy, ​​pseudônimo que criei para mim ;)
+
+- atualmente tendo aulas sobre Allura
+- espero fazer alguns projetos e melhorar minhas habilidades em java
+- utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
+  
 <!--
 **Akassya01/Akassya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
